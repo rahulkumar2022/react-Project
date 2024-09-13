@@ -1,0 +1,34 @@
+React Notes
+
+
+-> Makes easy to manage and build complex front-end 
+
+Why React was created?
+-> Ghost message problem
+-> State => Js  & UI => DOM -> Inconsistency in UI
+
+=> React is Library
+
+Topics to Learn 
+=> Core of React (state, or UI Manipulation , JSX)
+=> Component Reusability
+=> Reusing Component (Props)
+=> How to Propagate Change(hooks) 
+
+Additional Add on to React
+=> Router (react don’t have router)
+=> State Management (React don’t have state management)
+       -> Redux , Redux toolkit , etc
+=> Class based component
+         -> Legacy code
+=> BAAS apps
+
+
+
+Component name and function name should always be capital, else it won’t work.
+
+
+Pass variable 
+=>  {variable_name} -> It only take evaluated expression
+
+
