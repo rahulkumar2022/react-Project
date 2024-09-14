@@ -32,3 +32,10 @@ Pass variable
 =>  {variable_name} -> It only take evaluated expression
 
 
+Hooks / State
+ =>   let [count, setCount] = useState(0);
+=> onClick={() => setCount((count) => count + 1)}
+
+
+Tilwind css 
+=> Responsive web design
