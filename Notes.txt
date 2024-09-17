@@ -5,7 +5,7 @@ React Notes
 
 Why React was created?
 -> Ghost message problem
--> State => Js  & UI => DOM -> Inconsistency in UI
+-> State => Js  & UI => DOM-> Inconsistency in UI
 
 => React is Library
 
